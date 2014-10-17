@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tco:home|Door43 (tco)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tco|d43-tco repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tco/archive/master.zip|d43-tco.zip]]
+
+**Recent Changes**
+{{changes>ns = tco}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tco|Ethnologue data]]
+
